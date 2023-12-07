@@ -2,6 +2,11 @@
 
 \# INSERT ANSWERS HERE #
 
+Q4)
+- Everytime the code is run, both plot1 and plot2 look different because of how the random walks have been set up. The random walk patterns are different every time because of the randomness of the path angles at each point in time. They start from the same place, (0,0), but differentiate from there
+- Using a random seed is a way to generate a predictable and reproducible set of random numbers. When you set the same random seed, instead of the random number generator in the code creating a new set of numbers everytime the code is run, the same set of randomly generated numbers is produced. This allows for reproducibility.
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
