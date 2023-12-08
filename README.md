@@ -11,7 +11,7 @@ Q4)
 
 Q5)
 - 13 columns, and 35 rows including the titles
-- other questions answered with code in question5_answers.R file in this repo
+- other questions answered with code in question5_answers.R file in this repo. Link: https://github.com/miffynijntje/reproducible-research_homework/blob/main/question-5-data/question5answers.R
 
 BONUS 
 
