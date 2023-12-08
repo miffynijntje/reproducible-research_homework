@@ -7,6 +7,17 @@ Q4)
 - Using a random seed is a way to generate a predictable and reproducible set of random numbers. When you set the same random seed, instead of the random number generator in the code creating a new set of numbers everytime the code is run, the same set of randomly generated numbers is produced. This allows for reproducibility.
 -![Screenshot (99)](https://github.com/miffynijntje/reproducible-research_homework/assets/150163921/32a7ac1d-e13f-4b26-a954-72ece76c343a)
 
+Q5)
+- 13 columns, and 35 rows including the titles
+- other questions answered with code in question5_answers.R file in this repo
+
+BONUS 
+
+Reproducibility refers to how easily someone else is able to get the same the same results as you after using your methods, whereas replicability is more about how easily someone can independently repeat your study and get similar results. Reproducibility involves others testing the same hypothesis as you in the same way, whereas replicability tests how robust your hypothesis is to other people testing it in different ways.
+
+GitHub is a platform that allows researchers to track the changes in their code and also allows other people to have access to it. This greatly helps to improve reproducibility and replicability, as others can see your methods and changes easily at every stage in the project, as well as having access and the ability to copy your repository for replication. Furthermore, GitHub allows for you to avoid mistakes, as it can be checked by you or other people easily at each stage, especially the early stages, to mitigate the big knock-on effects of mistakes. You can also work in parallel alongside members of your team, or other researchers can work in parallel to you to reproduce or replicate your project, which helps make the process of research faster and more efficient. 
+
+Some limitations include the fact that there is often a big learning curve associated with getting used to and good at GitHub and also that heavily relying on any one cloud or backup process can be risky, and you should store your code and data at various places so that work is not lost if something goes wrong.
 
 ## Instructions
 
